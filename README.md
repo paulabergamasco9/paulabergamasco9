@@ -1,4 +1,4 @@
-# 🚀 Olá, sou Paula!
+# 🚀 Olá, sou Paula Bergamasco!
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
